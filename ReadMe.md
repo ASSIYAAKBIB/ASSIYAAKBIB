@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 I am Full stack Developer<br>👯 I’m looking to collaborate on Design, programming<br>🌱 I’m currently learning python and Js<br>💬 Ask me about any Thing you want<br>📫 How to reach me assiaakbib3573@gmail.com<br>⚡ Fun fact Work Smart not Hard ✌️<br><br><br>
+🏫 I am Full stack Developer<br>👯 I’m looking to collaborate on Design, programming<br>🌱 I’m currently learning python and Js<br>💬 Ask me about any Thing you want<br>📫 How to reach me assiaakbib3573@gmail.com<br>⚡ Fun fact Work Smart not Hard ✌️<br><br>
 
 
 ## 🌐 Socials:
